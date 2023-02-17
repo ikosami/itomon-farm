@@ -5,6 +5,7 @@ using UnityEngine;
 [CreateAssetMenu]
 public class StageData : ScriptableObject
 {
+    public string stageName;
     public List<PopData> dataList;
 }
 

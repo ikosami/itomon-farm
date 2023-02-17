@@ -38,15 +38,19 @@ SpriteAtlas:
     cachedData: {fileID: 0}
   m_MasterAtlas: {fileID: 0}
   m_PackedSprites:
+  - {fileID: 21300000, guid: e7d8136351fd20345b3e1d2e9f2bbc14, type: 3}
   - {fileID: 21300000, guid: 2f1b4737e96dc264cbfcd5d4237e0419, type: 3}
   - {fileID: 21300000, guid: 8becd58735b07e44db45757890dddfcb, type: 3}
   - {fileID: 21300000, guid: 89d2c7e733aceb043bbfbe61f8206c16, type: 3}
   - {fileID: 21300000, guid: f9591c5c1e897cd41af9c3d13a894e25, type: 3}
+  - {fileID: 21300000, guid: a617536fb99659644b70656b490b3a06, type: 3}
   m_PackedSpriteNamesToIndex:
+  - m4
   - m0
   - m2
   - m3
   - m1
+  - m5
   m_RenderDataMap: {}
   m_Tag: monster
   m_IsVariant: 0

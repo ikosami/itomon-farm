@@ -21,7 +21,7 @@ public class StageManager : MonoBehaviour
     public List<Stage> stageList;
     public CanvasGroup fadeCanvas;
 
-    private Stage nowStage;
+    public Stage nowStage;
 
     public void Awake()
     {

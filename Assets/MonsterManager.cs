@@ -19,4 +19,6 @@ public class MonsterManager : MonoBehaviour
     }
     public SpriteAtlas monsterAtlas;
     public Monster monsterPrefab;
+
+    public List<int> monsterList = new List<int>();
 }
