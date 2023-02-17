@@ -1,0 +1,11 @@
+/Library
+/Temp
+/obj
+/.vs
+/SwitchIL2CPPCache
+/SwitchIL2CPPStats
+*.csproj
+break_school_simlater.sln
+Logs/
+MemoryCaptures/
+remote_config_data
